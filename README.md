@@ -24,14 +24,6 @@ The writeups are organized according to the challenge categories:
 
 To use the writeups, navigate to the relevant category folder and open the corresponding writeup file.
 
-## Acknowledgments
-
-I would like to acknowledge the organizers of the Battle for Flags CTF for creating these engaging challenges. Additionally, I'm grateful to the CTF community for providing helpful resources and guides that have aided me in solving these challenges.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ## Contact Information
 
 If you have any questions or feedback regarding the writeups, feel free to contact us at:
