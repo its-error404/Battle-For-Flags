@@ -36,14 +36,18 @@ This repository is licensed under the [MIT License](LICENSE).
 
 If you have any questions or feedback regarding the writeups, feel free to contact me at:
 
-- Email: your.email@example.com
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
+- Email: karthi.vmpak@gmail.com
+         
+         Sudharsanjayakumar7@gmail.com
+         
 ## Contribution Guidelines
 
-Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please let us know through mail.
 
 ## Related Links
 
-- [My Blog](https://example.com/blog)
-- [CTF Resources](https://example.com/ctf-resources)
+- [Website](https://srmveccys.blogspot.com/)
+- [Instagram](https://instagram.com/whitehatians)
+- [Facebook](https://facebook.com/srmveccyswhitehatians)
+- [YouTube](ttps://youtube.com/@srmvec_cys_whitehatians)
+- [Discord](ttps://discord.gg/w77zzjVkEB)
