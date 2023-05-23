@@ -28,7 +28,8 @@ To use the writeups, navigate to the relevant category folder and open the corre
 
 If you have any questions or feedback regarding the writeups, feel free to contact us at:
 
-- Email: karthi.vmpak@gmail.com   (or)  mehdirmuhammed2002@gmail.com   (or)   Sudharsanjayakumar7@gmail.com           
+- Email: karthi.vmpak@gmail.com   (or)  mehdirmuhammed2002@gmail.com   (or)   Sudharsanjayakumar7@gmail.com
+- Discord:      vampy#7616 (or) Raghav#4530              
                  
 ## Contribution Guidelines
 
