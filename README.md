@@ -6,10 +6,10 @@ This repository contains the writeups for the challenges of the " Battle for Fla
 
 - [Crypto](https://github.com/its-error404/Battle-For-Flags/tree/main/Crypto)
 - [Misc](https://github.com/its-error404/Battle-For-Flags/tree/main/Misc)
-- [Forensics](#Forensics)
-- [Web](#Web)
-- [OSINT](#OSINT)
-- [Reverse Engineering](#Reverse-Engineering)
+- [Forensics](https://github.com/its-error404/Battle-For-Flags/tree/main/Forensics)
+- [Web](https://github.com/its-error404/Battle-For-Flags/tree/main/Web)
+- [OSINT](https://github.com/its-error404/Battle-For-Flags/tree/main/OSINT)
+- [Reverse Engineering](https://github.com/its-error404/Battle-For-Flags/tree/main/Reverse-Engineering)
 
 ## Directory Structure
 
