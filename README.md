@@ -15,12 +15,12 @@ This repository contains the writeups for the challenges of the " Battle for Fla
 
 The writeups are organized according to the challenge categories:
 
-- `crypto/`: Contains writeups for crypto challenges.
-- `misc/`: Contains writeups for miscellaneous challenges.
-- `forensics/`: Contains writeups for forensics challenges.
-- `web/`: Contains writeups for web challenges.
-- `osint/`: Contains writeups for OSINT challenges.
-- `reverse-engineering/`: Contains writeups for reverse engineering challenges.
+- `Crypto/`: Contains writeups for crypto challenges.
+- `Misc/`: Contains writeups for miscellaneous challenges.
+- `Forensics/`: Contains writeups for forensics challenges.
+- `Web/`: Contains writeups for web challenges.
+- `OSINT/`: Contains writeups for OSINT challenges.
+- `Reverse-Engineering/`: Contains writeups for reverse engineering challenges.
 
 To use the writeups, navigate to the relevant category folder and open the corresponding writeup file.
 
