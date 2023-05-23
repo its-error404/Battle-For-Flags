@@ -4,7 +4,7 @@ This repository contains the writeups for the challenges of the " Battle for Fla
 
 ## Table of Contents
 
-- [Crypto](#Crypto)
+- [Crypto](#https://github.com/its-error404/Battle-For-Flags/tree/main/Crypto)
 - [Misc](#Misc)
 - [Forensics](#Forensics)
 - [Web](#Web)
