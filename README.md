@@ -1,1 +1,1 @@
-echo # Battle-For-Flags
+Battle-For-Flags
