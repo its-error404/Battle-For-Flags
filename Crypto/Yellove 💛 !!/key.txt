@@ -1,0 +1,3 @@
+To solve the puzzle and decrypt the secret message, you must find the 3-digit code.
+The code is a prime number and its digits add up to 10.
+

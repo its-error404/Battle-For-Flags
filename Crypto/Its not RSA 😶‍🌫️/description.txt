@@ -1,0 +1,6 @@
+Its not RSA 😶‍🌫️
+
+Solve the challenge in the file !
+
+Flag Format:  BFF{SHA1sum hex(q)}
+
