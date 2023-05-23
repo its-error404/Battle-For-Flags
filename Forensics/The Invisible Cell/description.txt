@@ -1,0 +1,6 @@
+The Invisible Cell
+
+
+One of the cell in the Excel sheet has some hidden text in it. Can you find it and solve the flag ?
+
+Look from A143 to Y143
