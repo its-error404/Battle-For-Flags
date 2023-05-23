@@ -35,9 +35,9 @@ If you have any questions or feedback regarding the writeups, feel free to conta
 
 Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please let us know through mail or Discord.
 
-## Related Links
+## Follow White Hatians on:
 
-- [Website](https://srmveccys.blogspot.com/)
+- [Official Website](https://srmveccys.blogspot.com/)
 - [Instagram](https://instagram.com/whitehatians)
 - [Facebook](https://facebook.com/srmveccyswhitehatians)
 - [YouTube](https://youtube.com/@srmvec_cys_whitehatians)
