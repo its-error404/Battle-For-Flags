@@ -4,12 +4,12 @@ This repository contains the writeups for the challenges of the " Battle for Fla
 
 ## Table of Contents
 
-- [Crypto](#crypto)
-- [Misc](#misc)
-- [Forensics](#forensics)
-- [Web](#web)
-- [OSINT](#osint)
-- [Reverse Engineering](#reverse-engineering)
+- [Crypto](#Crypto)
+- [Misc](#Misc)
+- [Forensics](#Forensics)
+- [Web](#Web)
+- [OSINT](#OSINT)
+- [Reverse Engineering](#Reverse-Engineering)
 
 ## Directory Structure
 
