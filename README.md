@@ -37,9 +37,9 @@ This repository is licensed under the [MIT License](LICENSE).
 If you have any questions or feedback regarding the writeups, feel free to contact me at:
 
 - Email: karthi.vmpak@gmail.com
-         
-         Sudharsanjayakumar7@gmail.com
-         
+-        mehdirmuhammed2002@gmail.com
+-        Sudharsanjayakumar7@gmail.com       
+                 
 ## Contribution Guidelines
 
 Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please let us know through mail.
