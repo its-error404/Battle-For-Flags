@@ -34,11 +34,9 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
-If you have any questions or feedback regarding the writeups, feel free to contact me at:
+If you have any questions or feedback regarding the writeups, feel free to contact us at:
 
-- Email: karthi.vmpak@gmail.com
--        mehdirmuhammed2002@gmail.com
--        Sudharsanjayakumar7@gmail.com       
+- Email: karthi.vmpak@gmail.com   (or)  mehdirmuhammed2002@gmail.com   (or)   Sudharsanjayakumar7@gmail.com           
                  
 ## Contribution Guidelines
 
