@@ -1,6 +1,6 @@
 # Battle for Flags CTF Writeups
 
-This repository contains the writeups for the challenges of the " Battle for Flags CTF ". The writeups serve as documentation and provide solutions for various categories such as crypto, misc, forensics, web, osint, and reverse engineering.
+This repository contains the writeups for the challenges of the " Battle for Flags CTF " held on 18th May 2023 by the White Hatians Department Club of SRM Valliammai Engineering College. The writeups serve as documentation and provide solutions for various categories such as crypto, misc, forensics, web, osint, and reverse engineering.
 
 ## Table of Contents
 
