@@ -47,5 +47,5 @@ Contributions to this repository are welcome. If you would like to submit your o
 - [Website](https://srmveccys.blogspot.com/)
 - [Instagram](https://instagram.com/whitehatians)
 - [Facebook](https://facebook.com/srmveccyswhitehatians)
-- [YouTube](ttps://youtube.com/@srmvec_cys_whitehatians)
-- [Discord](ttps://discord.gg/w77zzjVkEB)
+- [YouTube](https://youtube.com/@srmvec_cys_whitehatians)
+- [Discord](https://discord.gg/w77zzjVkEB)
