@@ -32,7 +32,7 @@ If you have any questions or feedback regarding the writeups, feel free to conta
                  
 ## Contribution Guidelines
 
-Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please let us know through mail.
+Contributions to this repository are welcome. If you would like to submit your own writeups or improve existing ones, please let us know through mail or Discord.
 
 ## Related Links
 
