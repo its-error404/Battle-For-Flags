@@ -1,0 +1,1 @@
+echo # Battle-For-Flags
